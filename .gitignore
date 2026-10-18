@@ -1,0 +1,14 @@
+# Windows system and cache files
+%SystemDrive%/
+Thumbs.db
+Desktop.ini
+
+# Local environment configuration
+.env
+
+# Temporary files
+*.tmp
+*.log
+
+config/config.php
+config/database.php
